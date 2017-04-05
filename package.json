@@ -1,0 +1,21 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My workflow with NPM, SASS, GULP and MORE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "NPM",
+    "GIT"
+  ],
+  "author": "ALB",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
