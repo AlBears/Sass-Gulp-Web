@@ -17,8 +17,9 @@ $paragraph-font-family: 'Open Sans', sans-serif;
 
 //nav background
 $nav-bg-color: $dark-blue;
-//menu anchor
 $menu-anchor-font-size: 1.4rem;
+$menu-anchor-hover-color: $yellow;
+$menu-anchor-color: $white;
 
 //Heading
 $heading-color: $yellow;
@@ -41,8 +42,8 @@ $visit-text-color: $white;
 //grid & responsive
 $breakpoints: (
   phone: 480px,
-  tablet: 768,
-  desktop: 1024
+  tablet: 768px,
+  desktop: 1024px
 );
 $columns: 12;
 $grid-max-width: 1200px;
