@@ -1,0 +1,54 @@
+//colors
+$white: #FFFFFF;
+$blue: #0076A3;
+$dark-blue: darken($blue, 10);
+$yellow: #FFBA00;
+$green: #548c27;
+$red: #fe2d28;
+$black: #000000;
+
+//background
+$bg-color: $blue;
+//text color
+$text-color: $black;
+//paragraph
+$paragraph-font-size: 1.4rem;
+$paragraph-font-family: 'Open Sans', sans-serif;
+
+//nav background
+$nav-bg-color: $dark-blue;
+//menu anchor
+$menu-anchor-font-size: 1.4rem;
+
+//Heading
+$heading-color: $yellow;
+$heading-font-family: 'Bitter', serif;
+$heading-font-weight: 700;
+$heading-font-size: (
+  h1: 40px,
+  h2: 36px,
+  h3: 32px,
+  h4: 28px,
+  h5: 24px,
+  h6: 20px
+);
+
+//visit
+$visit-border-color: $white;
+$visit-heading-color: lighten($yellow, 10);
+$visit-text-color: $white;
+
+//grid & responsive
+$breakpoints: (
+  phone: 480px,
+  tablet: 768,
+  desktop: 1024
+);
+$columns: 12;
+$grid-max-width: 1200px;
+
+//buttons
+$btn-font-size: 16px;
+
+//footer
+$bg-footer: $dark-blue;
