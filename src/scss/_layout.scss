@@ -13,6 +13,10 @@ body {
   font-family: $paragraph-font-family;
 }
 
+img {
+  max-width: 100%;
+}
+
 main#main-content {
   margin-bottom: 20px;
 }
