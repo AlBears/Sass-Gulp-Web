@@ -1,7 +1,2 @@
 node_modules/
-app/css/app.css
-main.js
-fonts/
-app/img/
-app.min.css
-main-min.js
+app/
