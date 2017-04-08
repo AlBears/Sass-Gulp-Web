@@ -55,5 +55,17 @@ $grid-max-width: 1200px;
 //buttons
 $btn-font-size: 16px;
 $btn-font-weight: bold;
+
+//tables
+$table-font-size: 1rem;
+$table-caption-font-family: $heading-font-family;
+$table-caption-text-color: $yellow;
+$table-color: $white;
+$table-hover-bg-color: darken($yellow, 5);
+
+//services
+$paragraph-services-font-size: 1rem;
+$paragraph-services-color: $white;
+
 //footer
 $bg-footer: $dark-blue;
